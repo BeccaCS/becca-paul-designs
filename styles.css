@@ -1,0 +1,35 @@
+.link {
+  text-decoration: none;
+}
+
+.images {
+  width: 300px;
+}
+
+.canva-image {
+  height: 315px;
+}
+
+.profile-picture {
+  height: 400px;
+}
+
+.home-links {
+  color: #fff;
+  text-decoration: none;
+  background-color: rgb(116, 184, 184);
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.home-links:hover {
+  color: rgb(223, 220, 214);
+  background-color: #ff7c7c;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.work-canva {
+  height: 300px;
+  width: 500px;
+}
